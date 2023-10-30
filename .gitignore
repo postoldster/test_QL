@@ -1,0 +1,9 @@
+venv
+.env
+.vscode
+__pycache__
+.pytest_cache
+report
+allure-results
+*.log
+*.yml
